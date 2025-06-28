@@ -6,20 +6,6 @@ This project uses machine learning classification techniques to analyze and pred
 
 ---
 
-## 🧑‍💻 Team Information
-
-**Class**: CEN 3B  
-**Group**: Group 2  
-
-**Members**:
-- Jurgen Muca  
-- Endi Rrojlli  
-- Elis Bushaj  
-- Erjon Rrapi  
-- Redi Golikja  
-- Luis Seferaj  
-
----
 
 ## 🔍 Problem Statement
 
