@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project uses machine learning classification techniques to analyze and predict criminal patterns from the [NYPD Arrest Data (YTD)](https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date). The aim is to uncover insights into crime demographics, trends, and categories that can support data-driven decision-making regarding urban safety.
+This project uses machine learning classification techniques to analyze and predict criminal patterns from the [NYPD Arrest Data (YTD)]([https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data)). The aim is to uncover insights into crime demographics, trends, and categories that can support data-driven decision-making regarding urban safety.
 
 ---
 
