@@ -79,35 +79,6 @@ These steps reduced dimensionality and improved model efficiency and interpretab
 
 ---
 
-## 📊 Classification Accuracy
-
-### Training Results:
-
-| Algorithm           | AGE_GROUP | PERP_SEX | PERP_RACE | LAW_CAT_CD |
-|---------------------|-----------|----------|-----------|-------------|
-| Naive Bayes         | 58%       | 82%      | 46%       | 32%         |
-| KNN                 | 54%       | 80%      | 43%       | 75%         |
-| Decision Tree (J48) | 56%       | 79%      | 47%       | 76%         |
-| Neural Networks     | 58%       | 82%      | 48%       | 76%         |
-| Logistic Regression | 58%       | 82%      | 46%       | 70%         |
-| SVM                 | 58%       | 82%      | 46%       | 70%         |
-
-### Test Results:
-
-| Algorithm           | AGE_GROUP | PERP_SEX | PERP_RACE | LAW_CAT_CD |
-|---------------------|-----------|----------|-----------|-------------|
-| Naive Bayes         | 39.53%    | 55.81%   | 38.61%    | 32.94%      |
-| Lazy IBK            | 54.09%    | 55.81%   | 51.49%    | 41.18%      |
-| Bagging             | 47.67%    | 56.98%   | 46.53%    | 42.35%      |
-| Decision Tree (J48) | 47.67%    | 56.98%   | 49.51%    | 38.82%      |
-
----
-
-## 🔗 References
-
-- Djoshi, K. (2020). [GitHub – NYPD NYC Crime Data Analysis](https://github.com/KunalDJoshi/NYPD-NYC-Crime-data-analysis/blob/master/NYPD%20NYC%20Crime%20data%20analysis.pptx)
-
----
 
 ## 🚀 Getting Started
 
